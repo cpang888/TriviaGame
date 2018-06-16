@@ -5,7 +5,7 @@ var questions = [
   {question: "Which NBA team won the most titles in the 90s?", choices: ["New York Knicks", "Portland Trailblazers", "Los angeles Lakers", "Chicago Bulls"], answer: "Chicago Bulls"}
 ];
   
-  var number = 100;
+  var number = 30;
 
     var intervalId;
 
